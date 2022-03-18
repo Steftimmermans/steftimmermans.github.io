@@ -1,27 +1,21 @@
 ---
-title:  "Blogpost Voorbeeld"
+title:  "Blogpost 1"
 ---
 
-## titel 1
+## eerste les informatica
 
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odit nulla dignissimos corporis aspernatur laudantium eaque expedita esse blanditiis fugiat a! Magnam laboriosam incidunt cumque explicabo sit non blanditiis accusantium mollitia? 
+Voor mijn eerste les informatica gaan we terug het verleden in. Het begin van het schooljaar en ik weet nog dat we toen random kaartjes trokken en zo een superheld creerden. Mijne was Mike tyson die super snel was en met messen gooide. Ik kwam ook met de perfecte naam knife tyson. Hoewel mijn punt niet goed was vond ik de eerste lessen echt leuk zeker toen ik hoorde dat we een game gingen maken. Nu waarom wou ik informatica doen? Je kent wel van die films dat je zo hackers aan het werk ziet enzo. Dat vond ik super graaf dus stiekem wil ik ook kunnen hacken. 
 
-<!--more-->
 
-## titel 2
 
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequatur quas id reprehenderit culpa recusandae eligendi deleniti alias totam ducimus magnam similique excepturi tenetur molestiae, expedita libero at obcaecati et vitae.
-Laudantium ipsum commodi, excepturi impedit animi voluptatem nihil. Et, placeat iure ex soluta sequi ab dolorem deleniti nisi. Dignissimos at exercitationem reprehenderit quia ratione. Error non perferendis doloremque nam esse!
-Temporibus maxime facilis sequi ipsum porro harum! Consequatur aspernatur aut mollitia optio maxime ducimus, atque sequi eum deleniti nulla recusandae est, obcaecati fuga sunt ratione ab ipsa corporis inventore ex.
-Debitis magni sequi sunt? Sit magni dignissimos accusantium nam tenetur aliquid odio assumenda dolorem vero corporis ipsam qui quo officia itaque aspernatur fuga ducimus eum natus, dolor ea exercitationem enim.
-Nulla ipsa modi quaerat molestiae eum accusamus, soluta vero vel placeat odit consequatur corporis explicabo at minima similique, a dolorum tempore cum nihil? Voluptate esse quo sapiente accusamus ex cupiditate!
+## Hacken
 
-## titel 3
+Zo als je las hierboven was 1 van de redenen dat ik informatica wou doen: hacken. Nu klinkt dat negatief maar ik vind het gewoon graaf zeker van die grote hackgroepen zoals anonymous.
+ Wat ik ook graaf vind is zo hackers die goeden daden doen zo heb ik me verdiept in geheime hackers en hun daden. Ik weet niet of ik alles moet geloven wat ik heb gezien op youtube/ gelezen maar het strafste wat ik heb gelezen is dat er een hacker was die milioenen kinderporno pagina's van het internet heeft verwijderd.
+Not all hero's where capes zeggen ze dan.
+En dat zo ik zot vinden als ik dat ook kon doen. En zo kom ik weer terecht bij informatica. Waarom zet ik dit in mijn blog: omdat ik ook al is heb gehackt! Niks erg ofzo het was gewoon met een vriend van mij op gta5. Hierdoor ben ik ook gebanned op gta dus ben ik aan het wachten op gta6. Maar dat duurt heel lang
 
-Lorem ipsum dolor sit, amet consectetur adipisicing elit. Omnis unde dolorum aliquid itaque, soluta ipsum iure, incidunt eveniet, ullam sunt atque! Inventore architecto porro optio placeat, fugiat illo dolores aperiam.
-Dolore eius earum, quis voluptatibus voluptas aliquam quam odio beatae nam blanditiis necessitatibus eveniet corporis facilis sapiente ipsum est laboriosam soluta! Assumenda in velit officiis unde culpa dolorem alias laborum!
-Hic aliquid assumenda maiores, temporibus iste omnis saepe repudiandae, necessitatibus repellendus quisquam quo eveniet sed vel! Quod veniam vel impedit praesentium enim accusantium, ut eum tenetur officiis! Veniam, illo corporis.
+## beroepsdag
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque distinctio qui deserunt est vitae, ipsum sunt dolor eius adipisci! Vitae aut maiores officia atque tempora facere iusto doloremque. Perferendis, voluptatem.
-Odio perspiciatis maxime molestias. Sunt facilis ut alias, quod officiis temporibus error ad odit nesciunt nostrum maxime veniam accusamus itaque iure impedit quasi explicabo placeat. Eveniet dignissimos cumque quos et?
-Tempore, officia pariatur aperiam velit voluptate minima nesciunt hic sed architecto, aliquid ea in cum, provident deleniti obcaecati ipsam sapiente. Nam dolore sapiente illo fugit velit consequuntur quam beatae autem.
+In mijn basisschool hadden we een beroepsdag. Dit was een dag dat je een beroep kreeg en dan ging je met profesionals een dagje mee. Ik had samen met mijn vriend werken in een gamehal. Hier had je allerlei games die je kon spelen en ik herinner mij nog dat mijn vriend toch toen vroeg hoe dat werd gemaakt. Toen zei die persoon dat is allemaal geprogrameerd. Toen bleven wij maar vragen stellen . dus waarom ik dees naar boven haal is om te zeggen dat ik de intresse  al van jongs af aan had.
+
