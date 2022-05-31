@@ -1,6 +1,6 @@
 :root {
     --color-dominant: #0d0085;
-    --color-complement: #ffffff;
+    --color-complement: #89e8f5;
     --color-contrast: #000000;
     --color-accent: rgb(238, 238, 238);
 }
@@ -37,7 +37,7 @@ main {
 
 main#project,
 main#blogpost {
-    max-width: 80ch;
+    max-width: 70ch;
 }
 
 main section {
