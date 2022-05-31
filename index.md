@@ -2,6 +2,6 @@
 title: My Blog
 ---
 
-## Joske Vermeulen
+## Stef Timmermans
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae perferendis repellendus assumenda velit, dolores enim odit iusto quis facere iure saepe dicta sunt atque quo eveniet necessitatibus fugiat facilis ipsam.
+Ik ben Stef.Ik ben 17 jaar. Ik woon in Antwerpen Zuid. Mijn hobby is voetbal, dat doe ik al van mijn 8 jaar. Wat ik nog doe in mijn vrije tijd is gamen maar ook gewoon staleren met vrienden in het stad. Mijn favorieten plek is agora dat is een pleinte in mijn home town het zuid.
