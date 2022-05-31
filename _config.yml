@@ -14,7 +14,7 @@ defaults:
     - scope:
           path: "_projects"
       values:
-          banner: "/assets/images/woods.jpg"
+          banner: "/assets/images/ruimte.jpg"
           excerpt_separator: "<!--more-->"
           layout: "project"
     - scope:
