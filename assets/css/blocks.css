@@ -5,7 +5,7 @@ body {
 }
 
 #blogposts a:hover article {
-    background-color: var(--color-accent);
+    background-color: var(--color-complement);
     --elevation: .4;
     box-shadow: calc(4.0px * var(--elevation))
                 calc(8.0px * var(--elevation))
@@ -14,7 +14,7 @@ body {
 }
 
 #projects a:hover {
-    background-color: var(--color-accent);
+    background-color: var(--color-complement);
 }
 
 a {
