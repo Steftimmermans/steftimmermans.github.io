@@ -6,7 +6,7 @@ title:  "Blogpost 1"
 
 Voor mijn eerste les informatica gaan we terug het verleden in. Het begin van het schooljaar en ik weet nog dat we toen random kaartjes trokken en zo een superheld creerden. Mijne was Mike tyson die super snel was en met messen gooide. Ik kwam ook met de perfecte naam knife tyson. Hoewel mijn punt niet goed was vond ik de eerste lessen echt leuk zeker toen ik hoorde dat we een game gingen maken. Nu waarom wou ik informatica doen? Je kent wel van die films dat je zo hackers aan het werk ziet enzo. Dat vond ik super graaf dus stiekem wil ik ook kunnen hacken. 
 
-
+<!--more-->
 
 ## Hacken
 

@@ -6,7 +6,7 @@ title:  "Blogpost 2"
 
 Het eerste project was de site over knife tyson. Hier had ik niet erg veel thuis gedaan maar dat kwam ook omdat ik het niet echt allemaal begrijp. Ik ben ook niet de beste leerling en me aan deadlines houden blijft nogsteeds moeilijk. Zeker toen bij dit project. Hier had ik alles gedaan op de laatste dag wat natuurlijk dom is maar dat was puur door uitstel gedrag en beetje luiheid. nochtans toen ik begonnen was vond ik het niet saai. Wat ik ook was vergeten was om te pushen en daar heb ik mijn lesje wel van geleerd.
 
-
+<!--more-->
 
 ## thuis werk 2de project
 
