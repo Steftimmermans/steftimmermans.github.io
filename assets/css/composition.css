@@ -53,15 +53,6 @@ footer>* {
     max-width: 140ch;
 }
 
-header {
-    box-shadow: 0 2px 4px  ;
-    display: block;
-    width: 400px;
-    position: fixed;
-    text-align: center;
-    border-radius: 10px;
-}
-
 ul {
     position: absolute;
     padding: 0;
@@ -79,6 +70,18 @@ ul, li, .menubalk-links {
     color: white;
     display: block;
 }
+
+header {
+    padding-bottom: 40px ;
+    box-shadow: 0 2px 4px  ;
+    display: block;
+    width: 400px;
+    position: fixed;
+    text-align: center;
+    border-radius: 10px;
+    background-color: #0d0085;
+}
+
 
 header address {
     font-style: normal;
