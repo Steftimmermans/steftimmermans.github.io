@@ -54,7 +54,11 @@ footer>* {
 }
 
 header {
-    text-align: center;
+    text-align: left;
+}
+
+#projectenlink {
+    text-align: right;
 }
 
 header address {
