@@ -55,10 +55,7 @@ footer>* {
 
 header {
     text-align: left;
-}
-
-#projectenlink {
-    text-align: right;
+    padding-left: 1rem;
 }
 
 header address {
