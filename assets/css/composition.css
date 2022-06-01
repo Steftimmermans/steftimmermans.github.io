@@ -69,10 +69,29 @@ ul, li, .menubalk-links {
     width: 150px ;
     color: white;
     display: block;
+    text-decoration: none;
+    font-size: 20px;
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+    font-family: Century Gothic;
+    font-weight: bold;
+}
+
+ul li ul li {
+    float: none;
+}
+
+ul li ul{
+    display: none;
+}
+
+ul li :hover ul{
+    display: block;
 }
 
 header {
-    padding-bottom: 40px ;
+    padding-top: 100px ;
     box-shadow: 0 2px 4px  ;
     display: block;
     width: 400px;
