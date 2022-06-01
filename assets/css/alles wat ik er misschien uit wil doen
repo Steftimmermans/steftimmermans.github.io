@@ -1,0 +1,35 @@
+
+dit doe ik er ff uit was in composition onder de laatste about banner
+#projects a {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+#projects ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#projects ul>li:not(:last-child) {
+    border-bottom: 1px solid var(--color-dominant);
+}
+
+#projects ul>li a {
+    padding: 1rem;
+}
+
+#projects a .banner {
+    width: 3rem;
+    height: 3rem;
+    object-fit: cover;
+}
+
+#projects>* {
+    padding: 1rem;
+    margin: 0;
+}
+
+#projects article h1 {
+    margin: 0;
+}
