@@ -30,6 +30,7 @@ h1, h2, h3, h4 {
 }
 
 main {
+    padding-top: 200px;
     padding: 1rem;
     max-width: 1100px;
     margin: 0 auto;
@@ -62,7 +63,6 @@ ul {
 
 ul, li {
     float: left;
-    margin-top: 20px ;
 }
 
 ul, li, .menubalk-links {
@@ -91,14 +91,10 @@ ul li :hover ul{
 }
 
 header {
-    padding-top: 100px ;
-    box-shadow: 0 2px 4px  ;
     display: block;
     width: 400px;
-    position: fixed;
     text-align: center;
     border-radius: 10px;
-    background-color: #0d0085;
 }
 
 
