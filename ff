@@ -35,25 +35,6 @@ dit doe ik er ff uit was in composition onder de laatste about banner
 }
 
 
-
-dit is ff alles van projecten loes
-
----
-layout: default
----
-
-<nav>
-    <a href="/" class="material-icons">
-        arrow_back
-    </a>
-</nav>
-
-<article class="elevated-medium bg-complement">
-    {{content}}
-</article>
-
-
-
 denk ik iets van projecten
 <section id="projects" class="elevated-medium bg-complement">
 <h2 class="bg-dominant">Mijn Projecten</h2>
