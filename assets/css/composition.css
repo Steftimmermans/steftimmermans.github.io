@@ -57,7 +57,7 @@ header {
     position: fixed;
     text-align: center;
     width: 1400px;
-    padding: 40px;
+    padding: 20px;
    
 }
 
@@ -89,7 +89,7 @@ main#blogpost {
 }
 
 main section {
-    padding-top: 120px;
+    padding-top: 125px;
     margin: 1rem 0;
 }
 
