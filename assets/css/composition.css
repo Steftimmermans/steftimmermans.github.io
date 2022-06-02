@@ -53,6 +53,7 @@ ul li :hover ul{
 }
 
 header {
+    background-color: var(--color-dominant);
     position: fixed;
     display: block;
     width: 400px;
@@ -89,6 +90,7 @@ main#blogpost {
 }
 
 main section {
+    padding-top: 150px;
     margin: 1rem 0;
 }
 

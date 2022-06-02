@@ -17,17 +17,24 @@
     <header>
         <h1>{{page.title | capitalize}}</h1>
         <address class="author">Welkom op het portfolio van <a href="#" rel="author">Stef</a></address>
-        <ul>
-            <li> <a class="menubalk-links" href="blogpost.html"> blogs </a></li>
-            <li> <a href="#"> Projecten </a>
-                <ul>
-                    <li><a class="menubalk-links" href="knifetyson.md"> knife tyson</a></li> 
-                    <li><a class="menubalk-links" href="mijnportfolio.md"> mijn portfolio</a></li>
-                    <li><a class="menubalk-links" href="TsunamiGame.md"> TsunamiGame </a></li>
-                </ul>
-            </li>
-        </ul>
+        <nav>
+            <ul>
+                <li> <a class="menubalk-links" href="#"> blogs </a>
+                    <ul>
+                        <li><a href="2021-05-27-first-post.md"> 1ste blog  </a></li>
+                        <li><a href="2021-06-01-second-post.md"> 2de blog  </a></li>
+                    </ul>
+                </li>
 
+                <li> <a href="#"> Projecten </a>
+                    <ul>
+                        <li><a class="menubalk-links" href="knifetyson.md"> knife tyson</a></li> 
+                        <li><a class="menubalk-links" href="mijnportfolio.md"> mijn portfolio</a></li>
+                        <li><a class="menubalk-links" href="TsunamiGame.md"> TsunamiGame </a></li>
+                    </ul>
+                </li>
+            </ul>
+        </nav>
     </header>
 
     <main id="{{page.layout}}">
