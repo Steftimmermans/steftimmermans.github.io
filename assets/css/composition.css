@@ -54,6 +54,13 @@ footer>* {
     max-width: 140ch;
 }
 
+header {
+    display: block;
+    width: 400px;
+    text-align: center;
+    border-radius: 10px;
+}
+
 ul {
     position: absolute;
     padding: 0;
@@ -71,7 +78,7 @@ ul, li, .menubalk-links {
     display: block;
     text-decoration: none;
     font-size: 20px;
-    text-align: center;
+    text-align: right;
     padding: 10px;
     border-radius: 10px;
     font-family: Century Gothic;
@@ -88,13 +95,6 @@ ul li ul{
 
 ul li :hover ul{
     display: block;
-}
-
-header {
-    display: block;
-    width: 400px;
-    text-align: center;
-    border-radius: 10px;
 }
 
 
