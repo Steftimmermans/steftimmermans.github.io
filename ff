@@ -54,44 +54,21 @@ layout: default
 
 
 
-allemaal dingen van meneer
-#about>*:not(.full-bleed),
-article>*:not(.full-bleed) {
-    padding-left: 1rem;
-    padding-right: 1rem;
-}
+denk ik iets van projecten
+<section id="projects" class="elevated-medium bg-complement">
+<h2 class="bg-dominant">Mijn Projecten</h2>
+<ul>
 
-#about>*:first-child:not(.full-bleed),
-article>*:first-child:not(.full-bleed) {
-    padding-top: 1rem;
-}
+{% for project in site.projects %}
 
-#about>*:last-child:not(.full-bleed),
-article>*:last-child:not(.full-bleed) {
-    padding-bottom: 1rem;
-}
+<li>
+    <a href="{{ project.url }}">
+        <img src="{{project.banner}}" alt="{{project.title}} image" class="banner">
+        <h3>{{ project.title }}</h3>
+    </a>
+</li>
 
-#about .banner,
-#blogposts article .banner {
-    width: 100%;
-    height: 12rem;
-    display: block;
-    object-fit: cover;
-}
-
-@media only screen and (min-width: 600px) { 
-    main#mainpage {
-        display: grid;
-        grid-template-columns: 2fr 1fr;
-        gap: 1rem;
-    }
-
-    #blogposts {
-        grid-column: 1 / span 1;
-        grid-row: 1 / span 1;
-    }
-
-    main>div {
-        grid-column: 2 / span 1;
-    }
-}
+{% endfor %}
+        
+</ul>
+</section>
