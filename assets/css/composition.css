@@ -29,6 +29,7 @@ ul, li {
 }
 
 ul, li, .menubalk-links {
+    text-align: right;
     width: 150px ;
     color: white;
     display: inline-block;
@@ -55,7 +56,6 @@ ul li :hover ul{
 header {
     background-color: var(--color-dominant);
     position: fixed;
-    text-align: center;
     width: 1400px;
     padding: 20px;
    
