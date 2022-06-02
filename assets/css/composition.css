@@ -55,6 +55,7 @@ footer>* {
 }
 
 header {
+    position: fixed;
     display: block;
     width: 400px;
     text-align: center;
@@ -78,7 +79,7 @@ ul, li, .menubalk-links {
     display: block;
     text-decoration: none;
     font-size: 20px;
-    text-align: right;
+    text-align: center;
     padding: 10px;
     border-radius: 10px;
     font-family: Century Gothic;
