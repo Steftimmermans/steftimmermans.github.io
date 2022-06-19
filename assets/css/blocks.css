@@ -17,10 +17,6 @@ body {
     background-color: var(--color-complement);
 }
 
-#main-menu {
-    background-color: #0d0085;
-}
-
 a {
     color: inherit;
     text-decoration: inherit;
