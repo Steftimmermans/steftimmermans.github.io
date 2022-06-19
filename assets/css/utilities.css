@@ -11,10 +11,6 @@
     background-color: var(--color-accent);
 }
 
-#main-menu {
-    background-color: var(--color-dominant);
-}
-
 .text-dominant {
     color: var(--color-dominant);
 }
