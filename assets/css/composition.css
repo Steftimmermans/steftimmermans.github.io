@@ -20,17 +20,10 @@ html {
 #main-menu {
 
     position: sticky;
-
     top: 0;
-
     display: block;
-
     padding: 14px 16px;
-
     text-decoration: none;
-
-    background-color: gray;
-
 }
 
 
