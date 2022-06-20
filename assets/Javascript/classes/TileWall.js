@@ -4,6 +4,7 @@ class TileWall extends Tile {
     }
 
     Update() {
+        // de animation is gewoon zwart zodat het lijkt dat er een gat is
         if (this.animation)
             this.animation.draw(0, 0);
     }
