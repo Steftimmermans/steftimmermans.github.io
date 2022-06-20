@@ -28,14 +28,14 @@ html {
     text-decoration: none;
 }
 
-
 header {
     background-color: var(--color-dominant);
     position: fixed;
-    width: 1530px;
+    width: 530px;
     padding: 0px;
    
 }
+
 
 header address {
     font-style: normal;
@@ -107,7 +107,7 @@ article>*:last-child:not(.full-bleed) {
     header {
         background-color: var(--color-dominant);
         position: fixed;
-        width: 530px;
+        width: 1530px;
         padding: 0px;
        
     }
