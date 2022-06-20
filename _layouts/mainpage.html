@@ -13,6 +13,37 @@ layout: default
 
     </div>
 
+    <div>
+
+        <section id="about" class="elevated-medium bg-complement">
+
+            {{content}}
+
+        </section>
+       
+        <section id="projects" class="elevated-medium bg-complement">
+            <h2 class="bg-dominant">Mijn Projecten</h2>
+            <ul>
+
+            {% for project in site.projects %}
+       
+            <li>
+                <a href="{{ project.url }}">
+                    <article class="elevated-high bg-complement"></article>
+                        <img src="/assets/images/projecten.jpg" alt="{{project.title}} image" class="full-bleed | banner">
+                        <h3>{{ project.title }}</h3>
+                    </article>
+                </a>
+            </li>
+       
+            {% endfor %}
+                   
+            </ul>
+        </section>
+
+    </div>
+ 
+
     <section id="blogposts">
 
         {% for post in site.posts %}
