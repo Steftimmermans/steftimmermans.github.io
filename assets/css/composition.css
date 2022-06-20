@@ -43,6 +43,7 @@ header address {
 
 body {
     margin: 0;
+    margin-top: 100px;
     min-height: 100vh;
 
     display: grid;
@@ -62,7 +63,7 @@ main {
 
 main#project,
 main#blogpost {
-    max-width: 70ch;
+    max-width: 60ch;
 }
 
 main section {
@@ -104,7 +105,6 @@ article>*:last-child:not(.full-bleed) {
 }
 
 @media only screen and (min-width: 600px) { 
-    
     main#mainpage {
         display: grid;
         grid-template-columns: 2fr 1fr;
