@@ -21,7 +21,8 @@ html {
 
     position: sticky;
     top: 0;
-    display: block;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
     padding: 14px 16px;
     text-decoration: none;
 }
