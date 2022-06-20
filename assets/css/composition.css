@@ -31,9 +31,8 @@ html {
 header {
     background-color: var(--color-dominant);
     position: fixed;
-    width: 530px;
-    padding: 0px;
-   
+    width: 1530px;
+    padding: 0px;  
 }
 
 
@@ -104,13 +103,7 @@ article>*:last-child:not(.full-bleed) {
 }
 
 @media only screen and (min-width: 600px) { 
-    header {
-        background-color: var(--color-dominant);
-        position: fixed;
-        width: 1530px;
-        padding: 0px;
-       
-    }
+    
     main#mainpage {
         display: grid;
         grid-template-columns: 2fr 1fr;
