@@ -30,16 +30,14 @@ footer {
     background-color: #000;
 }
 
-header a,
-footer a {
+header a {
     display: inline-block;
     background-color: var(--color-contrast);
     padding: .12rem .25rem;
     color: var(--color-dominant);
 }
 
-header a:hover,
-footer a:hover {
+header a:hover {
     background-color: var(--color-complement);
     color: var(--color-accent);
 }
