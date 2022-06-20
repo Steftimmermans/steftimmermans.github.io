@@ -28,13 +28,14 @@ html {
     text-decoration: none;
 }
 
+
 header {
     background-color: var(--color-dominant);
     position: fixed;
     width: 1530px;
-    padding: 0px;  
+    padding: 0px;
+   
 }
-
 
 header address {
     font-style: normal;
